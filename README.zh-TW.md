@@ -14,7 +14,7 @@ Mocreak 是一款一鍵自動化下載、安裝、部署正版 Windows 和 Offic
 
     #### 🪟 Windows
     ![Windows](images/windows.png)
-    - 可自訂選擇安裝 Windows 11 x64 的各種發行版本。
+    - 可自訂選擇安裝 Windows 10、11 的各種 x64 發行版本。
     - 支援將多個國家或地區的語言作為新系統的預設語言。
     - 支援「線上下載安裝」和「離線安裝」 Windows 作業系統。
     - 可高度自訂需要安裝的系統自訂元件，甚至可以選擇不安裝 Windows Defender、Notepad 等。
